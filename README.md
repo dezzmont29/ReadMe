@@ -4,7 +4,7 @@
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
 ## Навыки и технологии
-``Jira``  ``Confluence``  ``Excel``  ``Qase.io``  ``Postman``  ``PostgreSQL``  ``Miro``  ``Trello``  ``Mockoon``  ``test case``  ``Git`` 
+``Jira``  ``Confluence``  ``Excel``  ``Qase.io``  ``Postman``  ``PostgreSQL``  ``Miro``  ``Trello``  ``Mockoon``  ``test case``  ``Git`` ``Markdown`` 
 
 ## Проекты:
 Проект 1: тест веб-приложения для учителей от Skyeng
@@ -61,3 +61,6 @@
 Итог: Расписание на создание, редактирование и удаление личных событий работает корректно.
 
 Результат двух проектов можно посмотреть тут: https://dezzmont29.atlassian.net/wiki/spaces/~63f1f89b526117e1514ab9de/pages/1540097/1+2
+
+## Контактная информация
+- [Telegram](https://t.me/dezzmont29)
