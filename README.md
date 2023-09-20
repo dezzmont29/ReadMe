@@ -6,6 +6,12 @@
 ## Навыки и технологии
 ``Jira``  ``Confluence``  ``Excel``  ``Qase.io``  ``Postman``  ``PostgreSQL``  ``Miro``  ``Trello``  ``Mockoon``  ``test case``  ``Git`` ``Markdown`` 
 
+## Учебные работы
+
+SOAP: https://docs.google.com/document/d/1XGDjoayAHdhHHwwYTi3LiRJjpqaJDh-l/edit?usp=drive_link&ouid=111991039871591533442&rtpof=true&sd=true
+Postman: https://drive.google.com/file/d/1iap0j7mB9-GRB5ow-97hNOjUQoDRRJc6/view?usp=drive_link
+SQL: https://drive.google.com/file/d/1Xi-EkZ6Rs7Om9SdaFHHn25hMnWU7KEww/view?usp=drive_link
+
 ## Проекты:
 Проект 1: тест веб-приложения для учителей от Skyeng
 
@@ -60,7 +66,8 @@
 
 Итог: Расписание на создание, редактирование и удаление личных событий работает корректно.
 
-Результат двух проектов можно посмотреть тут: https://dezzmont29.atlassian.net/wiki/spaces/~63f1f89b526117e1514ab9de/pages/1540097/1+2
+Результат двух проектов можно посмотреть тут: https://docs.google.com/document/d/1LUjrAJo2S5s26eHDSuUAb-lCyUEOwy1j/edit?usp=drive_link&ouid=111991039871591533442&rtpof=true&sd=true
 
 ## Контактная информация
 - [Telegram](https://t.me/dezzmont29)
+- dezzmont29@gmail.com
